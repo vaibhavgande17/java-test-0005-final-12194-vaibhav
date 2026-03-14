@@ -8,7 +8,7 @@ public class Test05
 		int num=1;
 		for(int i=1; i<=len; i++)
 		{
-	     for(int j=1; j<=end; j++)	     
+	     for(int j=1; j<=end; j++)	      
 		  {
      System.out.print((num++)+" ");
       } 
