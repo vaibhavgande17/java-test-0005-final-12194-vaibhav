@@ -11,7 +11,7 @@ public class Test05
 	     for(int j=1; j<=end; j++)	     
 		  {
      System.out.print((num++)+" ");
-      }
+      } 
     end++;
 		System.out.println();
     }
