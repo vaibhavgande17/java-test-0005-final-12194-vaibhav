@@ -13,7 +13,7 @@ public class Test05
      System.out.print((num++)+" ");
       }
     end++;
-		System.out.println();
+		System.out.println(); 
     }
   }
 }
